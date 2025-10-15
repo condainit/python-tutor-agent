@@ -1,0 +1,5 @@
+Do you need a deep copy so that modifying inner lists does not affect the original tuple?
+The function should return a tuple, so what conversion is missing at the end?
+Which list method adds a single element rather than iterating over the value?
+Python uses zero based indexing, so which index corresponds to the mth element?
+Which object should receive the append call, the tuple or the inner list at position m?

@@ -1,0 +1,5 @@
+sum needs numbers, not strings. Where should you convert each character to an integer?
+How can you turn each number into something you can loop over digit by digit?
+Are you summing the digits of each number, or the numbers themselves?
+Where should the return go so that all numbers in the list are processed?
+The function should return a single integer total. How can you combine the per-number sums into one value?

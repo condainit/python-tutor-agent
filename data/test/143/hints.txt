@@ -1,0 +1,5 @@
+Should the function count all elements in the tuple, or only those elements that are lists?
+Are we supposed to check whether the entire input is a list, or whether items inside the tuple are lists?
+How do you test if an element is a list type in Python?
+Do we need the number of lists, or the total number of items contained inside those lists?
+Where should the return statement go so that all elements in the tuple are considered?

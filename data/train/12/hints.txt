@@ -1,0 +1,5 @@
+Does list.sort return the sorted list, or should you either use sorted(M, key=sum) or sort in place and then return M?
+Are you ranking rows by how many elements they have, or by the sum of their elements?
+The requirement is ascending order. Should reverse be set here?
+Should the key depend on the specific row being compared, or a constant value for all rows?
+Do you need the sorted rows themselves, or the positions of those rows?

@@ -1,0 +1,5 @@
+Should equal adjacent values count as monotonic too?
+Do you want either nondecreasing or nonincreasing to be true, or both?
+What is the largest valid index when you access A[i + 1]?
+Which pair of indices should you compare for forward neighbors, and where should the range start?
+Should the function return the boolean values True or False, or the strings "True" and "False"?

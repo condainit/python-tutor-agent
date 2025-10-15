@@ -1,0 +1,5 @@
+"".join(...) expects strings. How can you turn each integer into a string before joining?
+If an element has more than one digit, multiplying by 10 isn’t enough. How many zeros should you shift by for each element?
+What characters should be between the numbers when you plan to convert back with int(...)?
+The problem asks for a single integer result. What final conversion is missing?
+Make sure the function processes all elements before returning. Where should the return go?

@@ -1,0 +1,5 @@
+Where should count be initialized so that it accumulates across all loop iterations, not just the last one?
+The goal is to scan the tuple and check each of its elements against the list. Which variable should the for loop iterate over?
+Does converting the tuple to a set preserve how many times each element appears? What happens to duplicates?
+Make sure the function considers all items in the tuple before returning. Where should the return go?
+Think about which thing should be “inside” the other. Should we be asking “is the tuple’s item in the list,” or “is the list in the item”?

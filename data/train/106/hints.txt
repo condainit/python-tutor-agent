@@ -1,0 +1,5 @@
+Should the tuple’s elements come first, followed by the list’s elements?
+The function is expected to return a tuple, not a list. What conversion is missing?
+Which list method should you use to add each element of the list individually?
+Tuples can be concatenated with tuples. How can you make the types compatible?
+Where should the return statement go so that all elements from the list are appended?

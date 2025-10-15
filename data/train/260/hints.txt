@@ -1,0 +1,5 @@
+What are the exact values of W0 and W1 for this sequence?
+In the recurrence Wn equals 2 times which previous term plus the other term?
+The recurrence needs two different earlier indices. Which second index is missing?
+What should the first two sequence values be before the loop begins?
+What should the function explicitly return when n equals 0 or 1?

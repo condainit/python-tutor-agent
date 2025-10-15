@@ -1,0 +1,5 @@
+Are you using the bitwise AND operator &, not the boolean and?
+What happens at the last iteration of that range, and how could zip help avoid index errors?
+Can you apply & to entire tuples, or do you need to apply it element by element?
+The reference solution returns a tuple. What conversion is missing?
+Where should the return statement go so all elements are processed?

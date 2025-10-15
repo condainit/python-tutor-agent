@@ -1,0 +1,5 @@
+Which operator in Python actually raises a number to a power?
+What should any nonzero number to the power of 0 evaluate to?
+With each recursive call, how should the exponent change so that the base case is eventually reached?
+In repeated multiplication for a^b, which value is multiplied b times?
+How should the function transform a negative exponent so that the result is correct?

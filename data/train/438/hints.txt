@@ -1,0 +1,5 @@
+Where should the counter be initialized so that matches from earlier iterations are not erased?
+How can you avoid counting the same pair twice and also avoid comparing a tuple with itself?
+The goal is to find a pair where one tuple is the reverse of the other, not the same order.
+Make sure all pairs are examined before returning the result.
+Does removing duplicate tuples change how many bidirectional pairs you should count?

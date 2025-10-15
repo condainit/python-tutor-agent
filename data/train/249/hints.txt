@@ -1,0 +1,5 @@
+Which array should you iterate over if you want to preserve the order of elements from the second array?
+Do sets preserve duplicates and ordering, and should the function return a list?
+What should the lambda return, and why does a nonempty list always count as True?
+Where should the return statement go so that all elements are considered?
+Which operation correctly checks membership per element instead of applying an operator to entire lists?

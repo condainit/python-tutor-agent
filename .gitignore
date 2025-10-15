@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Generated data
+data/processed/
+
+# Output files
+eval/out/
+
+# Model weights (too large for GitHub)
+weights/

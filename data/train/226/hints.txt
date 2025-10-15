@@ -1,0 +1,5 @@
+Where should you initialize result so it accumulates characters across all iterations?
+The task says to remove characters at odd indices, so which indices should you keep?
+If you step by two, what start index should you use to keep even-indexed characters?
+Does str.replace(old, new) remove only the character at position i, or does it remove all matching characters?
+The function should return a string, not a list. What final conversion is missing?

@@ -1,0 +1,5 @@
+For element-wise division, which operand should be the numerator and which the denominator?
+If you need floor behavior on negative values, does truncation via converting to int behave the same as floor division?
+How can you iterate pairs safely when the inputs might not have the same length?
+What collection type should the function return to match the requirement?
+Where should the return statement go so that every pair is processed?

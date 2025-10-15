@@ -1,0 +1,5 @@
+Where should the zero counter be initialized so it accumulates across all elements?
+Which operator should you use to compare numeric values for equality?
+The ratio should be zeroes to non-zeroes. What should the denominator be?
+Which division operator preserves fractional results?
+Where should the return statement go so that all elements are counted before computing the ratio?

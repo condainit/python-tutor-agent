@@ -1,0 +1,5 @@
+Do you need every dictionary to be empty, or just at least one?
+What is the truthiness of an empty dictionary in Python, and which predicate matches “all are empty”?
+Should you use is or == to compare a dictionary to {}?
+Should the function return boolean values True or False, or the strings "True" and "False"?
+Where should the return go so that the function considers every dictionary in the list?

@@ -1,0 +1,5 @@
+When are the lengths of the list and its set equal, and what should the function return in that case?
+How can you detect duplicates that are not next to each other?
+Where should the set that tracks seen elements be created so it persists across the whole loop?
+Should the function return the boolean values True or False, or the strings "True" and "False"?
+Where should the return statement go so that all elements are checked before deciding the result?

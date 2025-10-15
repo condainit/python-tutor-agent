@@ -1,0 +1,14 @@
+name: python-tutor-agent
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gh
+  - pip
+  - pip:
+      - accelerate
+      - datasets>=3.0.0
+      - openai>=1.30
+      - peft
+      - transformers>=4.43
+      - torch

@@ -1,0 +1,5 @@
+"".join(...) expects an iterable of strings, so how can you convert each number first?
+If an element has two or more digits, by how many powers of ten should you shift before adding?
+What should be between the digits when you plan to convert the string back to an integer?
+The function should return an integer. What final conversion is missing?
+Where should the return go so that all tuple elements are processed?

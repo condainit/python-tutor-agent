@@ -1,0 +1,5 @@
+What is the neutral starting value for multiplication so the first element is preserved?
+The problem says to divide by the length of the list, not by the sum. Which function gives you the length?
+Which division operator preserves decimal results instead of truncating them?
+Where should the return statement go so that the loop processes all numbers?
+Are you multiplying the list elements themselves, or just the loop indices?
